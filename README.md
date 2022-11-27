@@ -1,6 +1,6 @@
 # Data Scince Machine Learning-Project 
 
-> So here we will be doing a regrssion model by the help of sklearn
+> So here we will be doing a regression model, decision tree regressor and possion regressor by the help of sklearn
 
 * libs used
 
